@@ -549,14 +549,13 @@ margin: 0 15px;
 		font-weight: 500;
 	}
 
-#page4 h1{
-	font-size: 3rem;
-	font-weight: bold;
-	line-height: 1;
-	letter-spacing: -2;
-	text-align: center;
-}
-
+	#page4 h1{
+		font-size: 3rem;
+		font-weight: bold;
+		line-height: 1;
+		letter-spacing: -2;
+		text-align: center;
+	}
 
 }
 
@@ -566,5 +565,12 @@ margin: 0 15px;
 		font-size: 0.8rem;
 		font-weight: 400;
 		width: 40%;
+	}
+}
+
+
+@media (max-width:667px) {
+	.nav_links {
+		display: none;
 	}
 }
