@@ -17,5 +17,5 @@ This project is a clone of the **Two Good Co.** website.  Two Good Co is a busin
 
 ## Setup Instructions
 1. Clone the repository:
-   -To get a copy of this project, use the following command in your terminal.
+   -To get a copy of this project, use the following command in your terminal.<br>
    git clone https://github.com/HimanshiKhattri/Two-good_clone.git
